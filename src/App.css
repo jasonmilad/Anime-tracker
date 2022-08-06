@@ -1,0 +1,15 @@
+a {
+  text-decoration:none;
+  font-size: large;
+}
+
+  @keyframes loading {
+    from {width: 0px;}
+    to {width: 500px}}
+
+    img {
+
+      height:auto;
+      object-fit: cover;
+
+    }

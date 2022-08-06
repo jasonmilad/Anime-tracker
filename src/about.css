@@ -1,35 +1,4 @@
 #about-header {
-    background-image: url("https://wallpaperaccess.com/full/538943.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center top;
-
-    opacity: 65%;
-
-    height: 900px;
-
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-
-}
-
-#about-title {
-    justify-content: space-between;
-
-    margin-top: auto;
-    margin-bottom: auto;
-
-    width: 50%;
-    height: 400px;
-    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), rgb(255, 255, 255));
-
-    padding: 40px 100px;
-}
-
-h1 {
-    font-family: 'NovaFlatSlimBookOblique';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 35px;
+    background-image: linear-gradient(to left,rgba(255,255,255,.4) , rgba(255,255,255,.4)), 
+      url('https://wallpaperaccess.com/full/538943.jpg');
 }

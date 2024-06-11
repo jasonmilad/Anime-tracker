@@ -1,3 +1,6 @@
+<img width="1325" alt="image" src="https://github.com/jasonmilad/Anime-tracker/assets/105610854/10ea0046-0fe5-474b-bf47-77967dcc8275">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
